@@ -1,5 +1,5 @@
 package hillel.first;
 
-class SameName {
+public class SameName {
 
 }
