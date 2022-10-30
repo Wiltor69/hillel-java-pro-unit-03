@@ -1,4 +1,4 @@
 package hillel.second;
 
-class SameName {
+public class SameName {
 }
