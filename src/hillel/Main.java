@@ -8,6 +8,8 @@ public class Main {
 
         Car car = new Car();
         car.start();
-
+        
+        hillel.first.SameName sm = new hillel.first.SameName();
+        hillel.second.SameName sm2 = new hillel.second.SameName();
     }
 }
